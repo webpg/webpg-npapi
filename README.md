@@ -152,3 +152,7 @@ build\bin\webpgPlugin\MinSizeRel\npwebpgPlugin.dll
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kylehuff/webpg-npapi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/webpg/webpg-npapi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
